@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+langchain==0.2.16
+pypdf
+python-multipart
+langchain_openai
+langchain_groq
+python-dotenv
+langchain-community
+chromadb==0.5.5
+langchain_huggingface
+sentence-transformers
+langchain-chroma
+langchain-core==0.2.43
